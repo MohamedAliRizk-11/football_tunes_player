@@ -1,2 +1,8 @@
-*.cpp linguist-vendored
-CMakeLists.txt linguist-detectable=false
+
+# Exclude native platform boilerplate from language statistics
+linux/** linguist-vendored
+windows/** linguist-vendored
+macos/** linguist-vendored
+ios/** linguist-vendored
+android/** linguist-vendored
+web/** linguist-vendored
