@@ -27,7 +27,7 @@ Make sure you have the following installed:
 
 - Flutter SDK
 - Dart SDK
-- Android Studio or another supported development environment
+- Android Studio or another supported development environment.
 
 ### Installation
 
@@ -70,4 +70,4 @@ football_tunes_player/
 
 ## Purpose
 
-This project was created to practice Flutter development, build a simple audio player, and explore asset management and audio playback in Dart.
+This project was created to practice Flutter development, build a simple audio player, and explore asset management and audio playback in Dart
